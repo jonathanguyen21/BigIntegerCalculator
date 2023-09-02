@@ -1,8 +1,4 @@
 #------------------------------------------------------------------------------
-#  Jonathan Nguyen, jnguy330
-#  2023 Spring CSE101 PA6
-#  Makefile for CSE 101 Programming Assignment 6
-#
 #  make                     makes Arithmetic
 #  make BigIntegerClient    makes BigIntegerClient
 #  make ListTest          makes ListTest
