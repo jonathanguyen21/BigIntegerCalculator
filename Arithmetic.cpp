@@ -1,6 +1,4 @@
 /*********************************************************************************
-* Jonathan Nguyen, jnguy330
-* 2023 Spring CSE101 PA6
 * Arithmetic.cpp
 * Makes use of List ADT and BigInteger ADT to do arithmetic calculations
 * on arbitrarily large signed integers given in an input file
