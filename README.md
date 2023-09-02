@@ -1,6 +1,4 @@
 # Info
-* Jonathan Nguyen, jnguy330
-* 2023 Spring CSE101 PA6
 * README.md
 * Lists and gives brief description of each file in pa6
 
